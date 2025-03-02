@@ -1,40 +1,43 @@
-![Header](./your-header-image-name.png)
+## Hi there! 👋
 
-### Hello! 👋 I'm Gautam Gaur
+I'm **Gautam Gaur**, a passionate Software Developer from **India**. I love crafting efficient solutions and exploring new technologies to enhance user experiences. Let's connect and build something amazing together!
 
-Welcome to my GitHub profile! I'm a dedicated software developer with a strong interest in fronted development, backend development, DevOps development 
+## About Me
 
-- 🌱 Currently expanding my knowledge in Software Engineering and exploring new technologies.
-- 👯 I’m eager to collaborate on projects related to full-stack development, DevOps development
-- 📫 You can reach me at: 7877909324
+I'm a software developer with a strong interest in building full-stack applications. Currently, I'm exploring various technologies and honing my skills to contribute to impactful projects. I am open to collaboration and opportunities to grow in the tech field.
 
-### 🛠 Skills
+## Skills & Technologies
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,php,nodejs,react,docker,git,github,java,mysql,postgres,flutter,spring,express,graphql,tailwind,vue,linux,aws,firebase&perline=8)](https://skillicons.dev)
 
-### 📈 GitHub Stats
+## Top Projects
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Quickercode12&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quickercode12&layout=compact&theme=radical)
 
-### 📫 Contact Me
 
-- Email: gautamgaur2004@gmail.com 
-- LinkedIn: in/ gautam-sharma-41252b255
-- Twitter: @GautamG20600019
 
-Feel free to connect with me! I'm always open to discussing new ideas, projects, and opportunities.
+
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quickercode12&show_icons=true&hide_title=true&count_private=true&theme=radical)  
+
+- **Public Repositories**: 6  
+- **Followers**: 0  
+- **Following**: 1
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quickercode12&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent Activity
+
+- Updated README.md in [Quickercode12](https://github.com/Quickercode12/Quickercode12)  
+- Created repository [Full-Stack-Project-](https://github.com/Quickercode12/Full-Stack-Project-)  
+- Created repository [HTML-CSS-Projects](https://github.com/Quickercode12/HTML-CSS-Projects)  
+- Pushed changes to [gitPracties](https://github.com/Quickercode12/gitPracties)  
+- Pushed changes to [C-Projects-](https://github.com/Quickercode12/C-Projects-)
+
+## Latest Blog Posts
+
+No blog posts available at the moment.
+
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/ gautam-sharma-41252b255" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://leetcode.com/Just_coder12/" target="_blank" rel="noopener noreferrer"><Icon /> Generic</a> | <a href="https://x.com/GautamG20600019" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a>
