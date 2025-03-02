@@ -1,4 +1,4 @@
-![Banner](path/to/your/banner.png)
+![Header](./your-header-image-name.png)
 
 ### Hello! 👋 I'm Gautam Gaur
 
