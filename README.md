@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - 👋 Hi, I’m @Quickercode12
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
