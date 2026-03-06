@@ -12,9 +12,9 @@ I'm a full-stack developer focused on building web applications using technologi
 
 ## 🚀 Top Projects
 
-- 🗂 [TaskFlow – Project & Task Manager](https://github.com/Quickercode12/TaskFlow)
-- 💻 [C-Projects](https://github.com/Quickercode12/C-Projects-)
-- 🌐 [HTML-CSS Projects](https://github.com/Quickercode12/HTML-CSS-Projects)
+- 🗂 [Airline-booking Application](https://github.com/Quickercode12/Airline-Booking-Application)
+- 💻 [Food-Delivery Website](https://github.com/Quickercode12/Food-Delivery-Website)
+- 🌐 [Personal-Porfolio Website](https://github.com/Quickercode12/Personal-Portfolio-Website)
 
 ---
 
